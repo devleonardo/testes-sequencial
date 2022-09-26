@@ -1,8 +1,8 @@
 
 # Testes de velocidade em sequência
 
-São requisitados pela empresa, uma sequencia de 8 testes de velocidade em 3
-servidores diferentes
+São requisitados pela empresa, uma sequencia de 7 testes de velocidade em 3
+servidores diferentes.
 São eles: Minha Conexão, SpeedTest e Simet.
 
 Durante uma instalação ou manutenção da conexão de fibra óptica na casa de um
