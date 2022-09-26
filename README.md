@@ -10,35 +10,28 @@ cliente, junto aos testes de velocidade, a empresa exige uma outra série de
 testes, fotos e um procedimento padrão de anexar os itens utilizados durante todo
 o processo e um relatório final.
 
-Afim de otimizar o tempo ed cada procedimento, utilizando o seguinte procedimento, 
-se obteve uma retução de 2 minutos e 30 segundos. Com apenas um clinte, todos os testes 
-serão realizados, podendo o tempo, utilizar esse tempo em outros procedimentos.
 ## Funcionalidades
 
-Afim de otimizar o tempo de cada procedimento, utilizando o seguinte procedimento,
-se obteve uma redução de 2 minutos e 30 segundos.
+Para otimizar o tempo do procedimento exigido, utilizando o seguinte métodos, 
+obteve-se uma retução de 2 minutos e 30 segundos, realizando todos os testes num único clique.
 
 ### - Utilizando uma "Expressão de Função de Chamada Imediata" (IIFE)
 
 - O IIFE chama imediatamente uma função. Isso significa simplesmente que a função é executada imediatamente após a conclusão da definição.
+- Utilizando a função abaixo, obteremos a saída desejada.
 
-- Com um clinte, todos os testes serão realizados, podendo o técnico utilizar esse tempo em outros procedimentos.
-
-- Utilizando a função, obteremos a saída desejada.
 ## Screenshots
 
 ![Project](https://raw.githubusercontent.com/devleonardo/images/master/imgs/code.png)
 
-
 ## Demonstração
 
-
 Clique aqui para testar → [Testes de velocidade](https://devleonardo.github.io/projetos/teste-de-velocidade/)
+
 ## Usado por
 
-Esse projeto é usado pelas seguintes empresas:
+- Projeto de uso próprio, utilizado na realização de tarefas diarias numa empresa de telecom.
 
-- Técnicos de Telecom - Leste
 ## Licença
 
 [MIT](https://choosealicense.com/licenses/mit/)
