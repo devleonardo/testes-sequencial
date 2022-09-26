@@ -3,7 +3,10 @@
 
 São requisitados pela empresa, uma sequencia de 7 testes de velocidade em 3
 servidores diferentes.
-- São eles: Minha Conexão, SpeedTest e Simet.
+São eles:
+- Minha Conexão
+- SpeedTest
+- Simet.
 
 Durante uma instalação ou manutenção da conexão de fibra óptica na casa de um
 cliente, junto aos testes de velocidade, a empresa exige uma outra série de
